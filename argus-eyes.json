@@ -1,0 +1,25 @@
+{
+  "sizes": [
+    "1280x768"
+  ],
+  "pages": [
+    {
+      "name": "homepage",
+      "url": "file:///C:/serhanu/demo-repo/index.html",
+      "components": [
+        "navigation",
+        "about"
+      ]
+    }
+  ],
+  "components": [
+    {
+      "name": "navigation",
+      "selector": "#navigation"
+    },
+    {
+      "name": "about",
+      "selector": "#about"
+    }
+  ]
+}
