@@ -8,7 +8,8 @@
       "url": "file:///C:/serhanu/demo-repo/index.html",
       "components": [
         "navigation",
-        "about"
+        "about",
+        "more info"
       ]
     }
   ],
@@ -20,6 +21,10 @@
     {
       "name": "about",
       "selector": "#about"
+    },
+    {
+      "name": "more info",
+      "selector": "#moreinfo"
     }
   ]
 }
